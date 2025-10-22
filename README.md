@@ -1,4 +1,4 @@
 # Large Language Models
 
 ## LLM Quantization:
-Quantization is a compression technique that involves mapping high precision values to the lower precision one. For an LLM,
+Quantization is a compression technique that involves mapping high precision values to the lower precision one. For an LLM, that means modifying
