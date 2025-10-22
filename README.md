@@ -10,4 +10,6 @@ The process of quantization thus works on finding a way to represent the range w
 
 The overall impact on  the quality of LLM depends on the technique used.
 
-One method to achieve quantization is called affine quantization scheme and which is represented 
+One method to achieve quantization is called affine quantization scheme and which is represented  as
+
+"quantized_weight_val = round(weight/scaling factor + zero_point)"
