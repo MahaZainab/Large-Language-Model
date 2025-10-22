@@ -8,4 +8,4 @@ LLM are generally trained with full(float32) or half percision(float16) floating
 
 The process of quantization thus works on finding a way to represent the range which is [min, max] for the datatype of FP32 weight values to a lower precision values like FP16 or even int4 datatype.
 
-The
+The overall impact on  the quality of LLM 
