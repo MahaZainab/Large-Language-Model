@@ -1,4 +1,4 @@
 # Large Language Models
 
 ## LLM Quantization:
-Quantization is 
+Quantization is a 
