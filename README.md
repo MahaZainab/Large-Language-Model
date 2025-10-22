@@ -24,4 +24,4 @@ scaling_factor and zero_point are the quantization parameters.
 The above method describes how quantization work. How do we find the min and max value for the FP32 range? For this we must calibrate the model. Quantization process, in case of a FP32 to INT8, works on squeezing the very high dynamic range of FP32 into 255 values of INT8. This is done with a process called calibration. Calibration is thus a step during quantization.
 
 ##vLLM
-vLLM is fast and open to use library 
+vLLM is fast and open to use library for LLM 
