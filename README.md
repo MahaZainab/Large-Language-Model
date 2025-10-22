@@ -25,4 +25,5 @@ The above method describes how quantization work. How do we find the min and max
 
 ##vLLM
 vLLM is fast and open to use library for LLM inference and seving.
-for bigger models this is going to help 
+for bigger models this is going to help us.
+https://github.com/vllm-project/vllm
