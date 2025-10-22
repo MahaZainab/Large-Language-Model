@@ -10,4 +10,4 @@ The process of quantization thus works on finding a way to represent the range w
 
 The overall impact on  the quality of LLM depends on the technique used.
 
-One method to achieve 
+One method to achieve quantization is called 
