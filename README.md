@@ -5,3 +5,5 @@ Quantization is a compression technique that involves mapping high precision val
 
 #### How does quantization works?
 LLM are generally trained with full(float32) or half percision(float16) floating point numbers. One float has 16 bits which is 2 bytes. So, it takes 2 gigabytes for one billion parameters model trained on FP16.
+
+The 
