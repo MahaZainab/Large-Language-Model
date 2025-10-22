@@ -19,3 +19,5 @@ scaling factor: a positive FP32 value which scales the weight
 zero_point: INT8 value corresponding to value 0 represented as float32. This is of the same type as the quantized value
 
 scaling_factor and zero_point are the quantization parameters.
+
+#####
