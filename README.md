@@ -1,3 +1,3 @@
 # Large Language Models
 
-## LLM Quanti
+## LLM Quantization
