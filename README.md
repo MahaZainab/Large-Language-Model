@@ -1,4 +1,4 @@
 # Large Language Models
 
 ## LLM Quantization:
-Quantization is a compression
+Quantization is a compression technique
